@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+
+    <!-- Base application theme for dark mode -->
+    <style name="Base.Theme.TImer.Dark" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your dark theme here -->
+        <item name="colorPrimary">@color/list_item_pressed_color</item>
+        <!-- Add other dark mode specific attributes here -->
+    </style>
+
+    <!-- Additional styles for dark mode can be defined here -->
+
+</resources>

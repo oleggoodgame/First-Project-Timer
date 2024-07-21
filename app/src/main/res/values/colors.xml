@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="base">#1D6B20</color>
+    <color name="list_item_pressed_color">#DB206A</color>
+    <color name="list_view_background_light">#FFFFFF</color>
+    <color name="list_view_background_dark">#424242</color>
+
+
+    <color name="normal_color">#FF5722</color>
+    <color name="pressed_color">#E64A19</color>
+    <color name="other_color">#8C2200</color>
+
+
+
+    <color name="textColor">#FF000000</color>
+    <color name="backgroundColor">#FFFFFFFF</color>
+    <color name="otherColor">#FFEB3B</color>
+</resources>
